@@ -1,0 +1,40 @@
+.bg-MarromLogo {
+    background-color: #DEB887;
+}
+
+a {
+    color: #ffffff;
+}
+
+body {
+    background-color: #000;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+}
+
+.titulo {
+    color: white;
+    margin-left: 100px;
+    margin-top: 150px;
+  margin-right: 60px;
+}
+
+.facebook:hover{
+    color: #3b5998;
+}
+
+.instagram:hover{
+  color: rgb(197, 55, 114);
+           
+}
+.home{
+    color: #000;
+}
+
+.home:hover{
+    color: #000;
+}

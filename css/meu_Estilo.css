@@ -1,0 +1,76 @@
+.bg-AzulEscuro{
+    background-color: #046;
+}
+
+.bg-BrancoNav{
+    background-color: #DEB887;
+    color: black;
+}
+
+.bg-MarromLogo{
+    background-color: #DEB887;
+}
+
+.bg-Branco{
+    background-color: #3d3d3d;
+}
+
+.bg-Teste{
+    backgroun: #fff;
+}
+
+.bg-White{
+    background-color: #fff;
+    border: solid #DEB887;
+}
+
+.bg-Borda{
+    background-color: #fff;
+    border: solid 8px #3d3d3d;
+}
+
+.tamainho{
+    color: #3d3d3d;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.rodape{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color:white;
+}
+
+.borda {
+    padding: 0px;
+    border-radius: 0%;
+    border: 5px solid transparent;
+    border-image: url("/ProjetoTermo1.3/img/pngtree-line-round-simple-border-png-image_2440331.jpg") 15 round;
+}
+
+body {
+
+    background-image:url(../img/FOTOS-INICIAL-DA-CATEGORIA-MOVEIS-PLANEJADOS.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: cover ;
+
+    background-position: center ;
+
+    background-attachment: fixed;
+
+}
+
+.facebook:hover{
+    color: #3b5998;
+}
+
+.instagram:hover{
+    color: rgb(197, 55, 114);           
+}
+
+a {
+    color: #ffffff;
+}

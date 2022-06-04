@@ -1,0 +1,37 @@
+.bg-AzulEscuro{
+    background-color: #046;
+}
+.bg-BrancoNav{
+    background-color: #DEB887;
+    color: black;
+
+}.bg-MarromLogo{
+    background-color: #DEB887;
+}
+
+.bg-Branco{
+    background-color: #3d3d3d;
+}
+
+.bg-White{
+    background-color: #fff;
+    border: solid #DEB887;
+}
+.bg-Borda{
+    background-color: #fff;
+    border: solid 8px #3d3d3d;
+}
+
+.rodape{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color:white;
+}
+.borda {
+    padding: 0px;
+    border-radius: 0%;
+    border: 5px solid transparent;
+    border-image: url("/ProjetoTermo1.3/img/pngtree-line-round-simple-border-png-image_2440331.jpg") 15 round;
+}
+
